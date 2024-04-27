@@ -24,6 +24,7 @@ Users should be able to:
 - Control the toggle with both their mouse/trackpad and their keyboard
 
 ### Screenshot
+![desktop-design-annually](https://github.com/bahati7/pricing-component-with-toggle-master-react/assets/14108202/e03f1f8b-d633-4375-b68b-8745b70b3f30)
 
 ### Links
 
